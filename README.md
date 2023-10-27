@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  <img src="" height=300px>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzk852qHgp0JPNchiuSPEZuvr-N015DPibKqzOojbU19nyThlZYmWM7NwKs9i-610X3rJjKrO-v4cstftRwVHv6YhUz1y9VMezB3q_KAChYYysoE7fDwalaW9PgH0gnn8IobN2fGJS5eXjn9fWvzfbTYG9igaKq4Lb70ewKCTr1g5eMGeISXxuVxb8070/s16000/capa_credit_risk_analysis.png">
 </p>
 <br/>
 
