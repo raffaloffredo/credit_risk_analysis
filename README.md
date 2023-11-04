@@ -26,6 +26,26 @@ In this article, I show the path I took to find the best predictive model for th
 
 <br/>
 
+## Additional Material 
+The results obtained from this study were condensed into images to generate a straightforward presentation of what the company could achieve with the use of this tool.
+
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBB9qQzUC88PyHKeaTRosFvEwOrx_nb2uZYnenhOTKDI7EV15Gm03HaYt4GSPw3uQr0-5wc2DT68EzlLyhSZE-lI1oobbqJ9gfn41N4K7K8PF1XSPxOJQEm26L5oDOUN4-je1622NT4-uPWeyEIrhpk3BAT1jTNxaeoIlgYqWW8FHjFX8IFZQLL12BVB8/w640-h360/Slide1.PNG" width="60%">
+</p>
+<br/>
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt5JHPWtaTAM3qSvW5CcBKkK39-gMtKuavuSdinYb8PFhk1ZM13Ih23zxC4zQrMsu6nQcWZDNfI-R0RVzSPZO1j_NmYxFG4cJ2s1Tc5V0lWgWWvEBBrNVG_66s5Bzv0rvJz5EGlZd5C7vyQ4KAcGIubBvVfNX276HuIMlQOyeNpcoLh9Xa9dATUvaWn10/w640-h360/Slide2.PNG" width="60%">
+</p>
+<br/>
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXB_f4iREOvOWoa1X9FNDSovMBqXJ2xNR4kXkq7lfNC0ENBiyJ8r80oryXk7BsW0M9pgxXRhsLUe189Q07xMrbag0u-elEtJfZd3UTLyp5DZx-c3T9KUc3-SYYyGrLDcZwNn6aPwL7SqQlzO1ZhyphenhyphensbN7YXf5msQ6XODXDK66W6la9msWDCBWePyg-UvHw/w640-h360/Slide3.PNG" width="60%">
+</p>
+<br/>
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhffSiBL36VOKogNer_vDgr-FZc9d9UGtxcA63UJZcUAxpPq76DCncFu5WK7RF3sdG66bZgd4B0MFvV2HEt3_FhYLOnPjXhSjdWYY3dJhIyh3sIztDyfRJOeGyrfq3X0bPkZu7Mo5kZRooKCHwYKBZQnUairHbX_CCJ2z7M3Y8sLQm6ROf0pjiqC6nUdzM/w640-h360/Slide4.PNG" width="60%">
+</p>
+<br/>
+
 ## Other Projects
 
 * **[Time series analysis for demand forecasting](https://github.com/raffaloffredo/demand_forecasting_with_time_series)**
