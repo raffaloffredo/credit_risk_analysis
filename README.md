@@ -16,8 +16,9 @@
 <br/>
 
 ## About the project
+Credit risk analysis is a key component in maintaining the health of financial institutions' balance sheets. Keeping a low default rate ensures that the loans being made are profitable. For this, the use of machine learning to build models capable of identifying patterns and predicting whether a customer may become in default has been intensified.
 
-
+In this article, I show the path I took to find the best predictive model for this problem, using exploratory analysis, statistical analyses (descriptive, diagnostic, and prescriptive), indicators and graphs, data cleaning and treatment, data preparation with standardization (Standard Scaler) and balancing (Undersampling), treatment of categorical variables with Label Encoder and dummy variables, creation of a function to create and evaluate models, construction of models for comparisons with 7 different algorithms, optimization of XGBoost hyperparameters using cross-validation (Stratified KFold) and grid search (Grid Search), application of feature engineering, and performance evaluation of models with the construction of confusion matrices and by the metrics of Area Under the Curve (AUC) and Recall. Finally, it is proven that one model has better performance than the other with hypothesis test z.
 
 * **[Code File]()**
 * **[Full Article]()**
