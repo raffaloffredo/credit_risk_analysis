@@ -1,11 +1,4 @@
 # Credit Risk Analysis
-<p align="center">
-  🚧🚧🚧
-  <br/>
-  UNDER CONSTRUCTION
-  
-</p>
-<br/>
 
 <img align="center" alt="PT-BR" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-brazil_1f1e7-1f1f7.png"> _Clique [aqui](https://github.com/raffaloffredo/credit_risk_analysis_portuguese) para Português-BR_   
 <br/>
@@ -20,9 +13,9 @@ Credit risk analysis is a key component in maintaining the health of financial i
 
 In this article, I show the path I took to find the best predictive model for this problem, using exploratory analysis, statistical analyses (descriptive, diagnostic, and prescriptive), indicators and graphs, data cleaning and treatment, data preparation with standardization (Standard Scaler) and balancing (Undersampling), treatment of categorical variables with Label Encoder and dummy variables, creation of a function to create and evaluate models, construction of models for comparisons with 7 different algorithms, optimization of XGBoost hyperparameters using cross-validation (Stratified KFold) and grid search (Grid Search), application of feature engineering, and performance evaluation of models with the construction of confusion matrices and by the metrics of Area Under the Curve (AUC) and Recall. Finally, it is proven that one model has better performance than the other with hypothesis test z.
 
-* **[Code File]()**
-* **[Full Article]()**
-* **[Summarized Article (Results)]()**
+* **[Code File](https://github.com/raffaloffredo/credit_risk_analysis/blob/main/%5BLoffredoDS%5D_Credit_Risk_Analysis.ipynb)**
+* **[Full Article](https://medium.com/@loffredo.ds/building-a-predictive-credit-risk-analysis-model-using-xgboost-adf3bf77122a)**
+* **[Summarized Article (Results)](https://www.linkedin.com/pulse/results-obtained-building-predictive-model-credit-risk-loffredo-sjkrf)**
 
 <br/>
 
